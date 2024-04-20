@@ -2,7 +2,6 @@
 
 POST: Se utiliza para enviar datos al servidor para crear un nuevo recurso.
 ![image](https://github.com/DerTsu/VerbosHTTP/assets/111519104/9e7a5ab5-7f5a-41f9-8b18-92b9289acebc)
-![image](https://github.com/DerTsu/VerbosHTTP/assets/111519104/c94e71a0-abdf-481d-8668-d068be4831fd)
 
 GET: Se utiliza para solicitar datos de un recurso específico del servidor.
 ![image](https://github.com/DerTsu/VerbosHTTP/assets/111519104/ded1d987-dd30-47a3-9756-9c975611014b)
